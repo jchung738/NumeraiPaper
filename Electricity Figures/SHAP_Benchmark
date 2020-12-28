@@ -1,0 +1,213 @@
+,Feature,Score
+211,"('18or19', '')",124.6779072413914
+62,"('air_temp_set_avg', datetime.time(21, 30))",9.378798106296625
+18,"('Month_12', '')",7.114963761844248
+63,"('air_temp_set_avg', datetime.time(22, 0))",5.639899952861187
+61,"('air_temp_set_avg', datetime.time(21, 0))",5.455648948776875
+58,"('air_temp_set_avg', datetime.time(19, 30))",5.065004108082464
+64,"('air_temp_set_avg', datetime.time(22, 30))",4.752080891971808
+59,"('air_temp_set_avg', datetime.time(20, 0))",4.642669672465248
+60,"('air_temp_set_avg', datetime.time(20, 30))",4.583299472473728
+7,"('Month_1', '')",3.789759599968294
+42,"('air_temp_set_avg', datetime.time(11, 30))",2.9281663072435404
+154,"('relative_humidity_set_1', datetime.time(19, 30))",2.6189159615835327
+177,"('solar_radiation_set_1', datetime.time(7, 0))",2.498020102149592
+57,"('air_temp_set_avg', datetime.time(19, 0))",2.4333980712680483
+65,"('air_temp_set_avg', datetime.time(23, 0))",2.3616086345135483
+37,"('air_temp_set_avg', datetime.time(9, 0))",2.3286875889387826
+5,"('DOW_5', '')",2.194142500385311
+66,"('air_temp_set_avg', datetime.time(23, 30))",2.1292182104757913
+198,"('solar_radiation_set_1', datetime.time(17, 30))",2.1280163476627996
+40,"('air_temp_set_avg', datetime.time(10, 30))",2.088970600621637
+41,"('air_temp_set_avg', datetime.time(11, 0))",2.02864270561892
+39,"('air_temp_set_avg', datetime.time(10, 0))",1.817661513112385
+56,"('air_temp_set_avg', datetime.time(18, 30))",1.8174403030474484
+55,"('air_temp_set_avg', datetime.time(18, 0))",1.633784421940645
+20,"('air_temp_set_avg', datetime.time(0, 30))",1.5023961245517448
+197,"('solar_radiation_set_1', datetime.time(17, 0))",1.4457398719466104
+199,"('solar_radiation_set_1', datetime.time(18, 0))",1.4293315849420887
+176,"('solar_radiation_set_1', datetime.time(6, 30))",1.4101530231368211
+178,"('solar_radiation_set_1', datetime.time(7, 30))",1.3937235168772497
+54,"('air_temp_set_avg', datetime.time(17, 30))",1.388649014588105
+36,"('air_temp_set_avg', datetime.time(8, 30))",1.243269695666134
+50,"('air_temp_set_avg', datetime.time(15, 30))",1.2309035394092247
+90,"('dew_point_temperature_set_1d', datetime.time(11, 30))",1.1156783093828213
+52,"('air_temp_set_avg', datetime.time(16, 30))",1.0897993893214835
+181,"('solar_radiation_set_1', datetime.time(9, 0))",1.0709255956770767
+51,"('air_temp_set_avg', datetime.time(16, 0))",1.0394402966438383
+38,"('air_temp_set_avg', datetime.time(9, 30))",1.0373101212825746
+153,"('relative_humidity_set_1', datetime.time(19, 0))",1.032507419317111
+47,"('air_temp_set_avg', datetime.time(14, 0))",1.0137212331973444
+53,"('air_temp_set_avg', datetime.time(17, 0))",0.9638140589851147
+29,"('air_temp_set_avg', datetime.time(5, 0))",0.9585904504466902
+162,"('relative_humidity_set_1', datetime.time(23, 30))",0.936487712956951
+34,"('air_temp_set_avg', datetime.time(7, 30))",0.9142056958425583
+31,"('air_temp_set_avg', datetime.time(6, 0))",0.9031371778622098
+115,"('relative_humidity_set_1', datetime.time(0, 0))",0.8993796466792936
+182,"('solar_radiation_set_1', datetime.time(9, 30))",0.8320861421582514
+44,"('air_temp_set_avg', datetime.time(12, 30))",0.7929003694561813
+33,"('air_temp_set_avg', datetime.time(7, 0))",0.7681939247583475
+185,"('solar_radiation_set_1', datetime.time(11, 0))",0.7568150786401903
+175,"('solar_radiation_set_1', datetime.time(6, 0))",0.75386939782643
+35,"('air_temp_set_avg', datetime.time(8, 0))",0.7514495387139566
+161,"('relative_humidity_set_1', datetime.time(23, 0))",0.7461860845922109
+43,"('air_temp_set_avg', datetime.time(12, 0))",0.7250263655369131
+200,"('solar_radiation_set_1', datetime.time(18, 30))",0.7132173203613796
+117,"('relative_humidity_set_1', datetime.time(1, 0))",0.7013774026853696
+86,"('dew_point_temperature_set_1d', datetime.time(9, 30))",0.6771664506918806
+48,"('air_temp_set_avg', datetime.time(14, 30))",0.663937885059103
+155,"('relative_humidity_set_1', datetime.time(20, 0))",0.6586111607394147
+116,"('relative_humidity_set_1', datetime.time(0, 30))",0.6574480214505889
+158,"('relative_humidity_set_1', datetime.time(21, 30))",0.6571386719196168
+24,"('air_temp_set_avg', datetime.time(2, 30))",0.6561998012491916
+149,"('relative_humidity_set_1', datetime.time(17, 0))",0.6503009303224493
+157,"('relative_humidity_set_1', datetime.time(21, 0))",0.6488331179713246
+146,"('relative_humidity_set_1', datetime.time(15, 30))",0.6478721456941107
+17,"('Month_11', '')",0.647103439705246
+186,"('solar_radiation_set_1', datetime.time(11, 30))",0.6395785063252233
+45,"('air_temp_set_avg', datetime.time(13, 0))",0.6327048804480029
+201,"('solar_radiation_set_1', datetime.time(19, 0))",0.6180845898286896
+173,"('solar_radiation_set_1', datetime.time(5, 0))",0.6178936174274937
+202,"('solar_radiation_set_1', datetime.time(19, 30))",0.5939315692144493
+180,"('solar_radiation_set_1', datetime.time(8, 30))",0.5924302008684552
+118,"('relative_humidity_set_1', datetime.time(1, 30))",0.5904266420610873
+189,"('solar_radiation_set_1', datetime.time(13, 0))",0.5904203389768429
+128,"('relative_humidity_set_1', datetime.time(6, 30))",0.5875419142829126
+46,"('air_temp_set_avg', datetime.time(13, 30))",0.5835632110440595
+49,"('air_temp_set_avg', datetime.time(15, 0))",0.576574150365611
+95,"('dew_point_temperature_set_1d', datetime.time(14, 0))",0.5762356054084692
+19,"('air_temp_set_avg', datetime.time(0, 0))",0.5692112165748873
+156,"('relative_humidity_set_1', datetime.time(20, 30))",0.5596925349954092
+174,"('solar_radiation_set_1', datetime.time(5, 30))",0.5584562958709354
+150,"('relative_humidity_set_1', datetime.time(17, 30))",0.5336321798848552
+183,"('solar_radiation_set_1', datetime.time(10, 0))",0.533451289893586
+196,"('solar_radiation_set_1', datetime.time(16, 30))",0.5287909701040581
+159,"('relative_humidity_set_1', datetime.time(22, 0))",0.5189338176016081
+21,"('air_temp_set_avg', datetime.time(1, 0))",0.5168531734017647
+129,"('relative_humidity_set_1', datetime.time(7, 0))",0.5103140833620904
+203,"('solar_radiation_set_1', datetime.time(20, 0))",0.5064624006479876
+26,"('air_temp_set_avg', datetime.time(3, 30))",0.5026718874072874
+30,"('air_temp_set_avg', datetime.time(5, 30))",0.48914886975719635
+141,"('relative_humidity_set_1', datetime.time(13, 0))",0.487359550167913
+206,"('solar_radiation_set_1', datetime.time(21, 30))",0.4829105943445788
+89,"('dew_point_temperature_set_1d', datetime.time(11, 0))",0.47662416834280413
+144,"('relative_humidity_set_1', datetime.time(14, 30))",0.47531409074021996
+32,"('air_temp_set_avg', datetime.time(6, 30))",0.47508274164526937
+148,"('relative_humidity_set_1', datetime.time(16, 30))",0.46502325278163303
+27,"('air_temp_set_avg', datetime.time(4, 0))",0.4522386910143004
+28,"('air_temp_set_avg', datetime.time(4, 30))",0.4475719534892251
+119,"('relative_humidity_set_1', datetime.time(2, 0))",0.4468174342888078
+184,"('solar_radiation_set_1', datetime.time(10, 30))",0.44403093858094084
+138,"('relative_humidity_set_1', datetime.time(11, 30))",0.426327624123596
+145,"('relative_humidity_set_1', datetime.time(15, 0))",0.42389739608304855
+160,"('relative_humidity_set_1', datetime.time(22, 30))",0.4222851096885691
+110,"('dew_point_temperature_set_1d', datetime.time(21, 30))",0.41835677617499817
+193,"('solar_radiation_set_1', datetime.time(15, 0))",0.414910916678449
+205,"('solar_radiation_set_1', datetime.time(21, 0))",0.4128209860360861
+130,"('relative_humidity_set_1', datetime.time(7, 30))",0.40605191575566685
+124,"('relative_humidity_set_1', datetime.time(4, 30))",0.4054629373804395
+147,"('relative_humidity_set_1', datetime.time(16, 0))",0.40082168987402866
+87,"('dew_point_temperature_set_1d', datetime.time(10, 0))",0.40001499352785264
+92,"('dew_point_temperature_set_1d', datetime.time(12, 30))",0.39166423596023875
+108,"('dew_point_temperature_set_1d', datetime.time(20, 30))",0.38985797825447094
+164,"('solar_radiation_set_1', datetime.time(0, 30))",0.3890347049306074
+25,"('air_temp_set_avg', datetime.time(3, 0))",0.37969559437213535
+179,"('solar_radiation_set_1', datetime.time(8, 0))",0.37887055328694047
+85,"('dew_point_temperature_set_1d', datetime.time(9, 0))",0.37663840895346257
+83,"('dew_point_temperature_set_1d', datetime.time(8, 0))",0.36849128909280765
+123,"('relative_humidity_set_1', datetime.time(4, 0))",0.36707091639981076
+188,"('solar_radiation_set_1', datetime.time(12, 30))",0.3644804074374238
+121,"('relative_humidity_set_1', datetime.time(3, 0))",0.36133045049100754
+152,"('relative_humidity_set_1', datetime.time(18, 30))",0.3608420961090915
+143,"('relative_humidity_set_1', datetime.time(14, 0))",0.3604908216988617
+137,"('relative_humidity_set_1', datetime.time(11, 0))",0.3567319505338965
+93,"('dew_point_temperature_set_1d', datetime.time(13, 0))",0.3566368277246931
+22,"('air_temp_set_avg', datetime.time(1, 30))",0.35567502483202773
+204,"('solar_radiation_set_1', datetime.time(20, 30))",0.3553798417487072
+187,"('solar_radiation_set_1', datetime.time(12, 0))",0.355375007026211
+136,"('relative_humidity_set_1', datetime.time(10, 30))",0.34957151566406275
+194,"('solar_radiation_set_1', datetime.time(15, 30))",0.34367581664500363
+142,"('relative_humidity_set_1', datetime.time(13, 30))",0.34238080387418013
+112,"('dew_point_temperature_set_1d', datetime.time(22, 30))",0.33926491004453985
+127,"('relative_humidity_set_1', datetime.time(6, 0))",0.339096107660235
+120,"('relative_humidity_set_1', datetime.time(2, 30))",0.3335217749785603
+91,"('dew_point_temperature_set_1d', datetime.time(12, 0))",0.33254901337945464
+190,"('solar_radiation_set_1', datetime.time(13, 30))",0.3316987052032769
+23,"('air_temp_set_avg', datetime.time(2, 0))",0.32646402777982103
+102,"('dew_point_temperature_set_1d', datetime.time(17, 30))",0.3215709109157554
+125,"('relative_humidity_set_1', datetime.time(5, 0))",0.3175137486873239
+131,"('relative_humidity_set_1', datetime.time(8, 0))",0.3161797760271773
+109,"('dew_point_temperature_set_1d', datetime.time(21, 0))",0.30889394950451293
+88,"('dew_point_temperature_set_1d', datetime.time(10, 30))",0.3088437905137571
+67,"('dew_point_temperature_set_1d', datetime.time(0, 0))",0.3048383581347051
+135,"('relative_humidity_set_1', datetime.time(10, 0))",0.3006837603358674
+96,"('dew_point_temperature_set_1d', datetime.time(14, 30))",0.2924781040606154
+122,"('relative_humidity_set_1', datetime.time(3, 30))",0.29042002158529073
+195,"('solar_radiation_set_1', datetime.time(16, 0))",0.28936445248525744
+94,"('dew_point_temperature_set_1d', datetime.time(13, 30))",0.28847881282751064
+191,"('solar_radiation_set_1', datetime.time(14, 0))",0.28691573800721215
+111,"('dew_point_temperature_set_1d', datetime.time(22, 0))",0.27656020036877393
+192,"('solar_radiation_set_1', datetime.time(14, 30))",0.27619812888287554
+170,"('solar_radiation_set_1', datetime.time(3, 30))",0.26630614498741995
+151,"('relative_humidity_set_1', datetime.time(18, 0))",0.262717091881834
+75,"('dew_point_temperature_set_1d', datetime.time(4, 0))",0.25639920674222
+165,"('solar_radiation_set_1', datetime.time(1, 0))",0.25575930296548
+103,"('dew_point_temperature_set_1d', datetime.time(18, 0))",0.24441212620453978
+140,"('relative_humidity_set_1', datetime.time(12, 30))",0.2398709417934873
+133,"('relative_humidity_set_1', datetime.time(9, 0))",0.2333931141188217
+210,"('solar_radiation_set_1', datetime.time(23, 30))",0.23219310240630417
+132,"('relative_humidity_set_1', datetime.time(8, 30))",0.23112122493779783
+207,"('solar_radiation_set_1', datetime.time(22, 0))",0.22836256958775478
+208,"('solar_radiation_set_1', datetime.time(22, 30))",0.22765803831689055
+114,"('dew_point_temperature_set_1d', datetime.time(23, 30))",0.22420469767628368
+78,"('dew_point_temperature_set_1d', datetime.time(5, 30))",0.22398454666503137
+126,"('relative_humidity_set_1', datetime.time(5, 30))",0.22322686482209145
+134,"('relative_humidity_set_1', datetime.time(9, 30))",0.22095317868805486
+167,"('solar_radiation_set_1', datetime.time(2, 0))",0.21802298827746716
+84,"('dew_point_temperature_set_1d', datetime.time(8, 30))",0.2168707928603112
+107,"('dew_point_temperature_set_1d', datetime.time(20, 0))",0.2156677965999912
+104,"('dew_point_temperature_set_1d', datetime.time(18, 30))",0.21560412300571472
+77,"('dew_point_temperature_set_1d', datetime.time(5, 0))",0.2152084181510999
+101,"('dew_point_temperature_set_1d', datetime.time(17, 0))",0.20991920867057057
+68,"('dew_point_temperature_set_1d', datetime.time(0, 30))",0.19860976896768404
+163,"('solar_radiation_set_1', datetime.time(0, 0))",0.19436380474553577
+169,"('solar_radiation_set_1', datetime.time(3, 0))",0.19279698693040967
+106,"('dew_point_temperature_set_1d', datetime.time(19, 30))",0.18608110722774354
+139,"('relative_humidity_set_1', datetime.time(12, 0))",0.18509785341466486
+69,"('dew_point_temperature_set_1d', datetime.time(1, 0))",0.18415175529235883
+81,"('dew_point_temperature_set_1d', datetime.time(7, 0))",0.183696602556293
+99,"('dew_point_temperature_set_1d', datetime.time(16, 0))",0.17931756431368587
+113,"('dew_point_temperature_set_1d', datetime.time(23, 0))",0.17392196098263493
+172,"('solar_radiation_set_1', datetime.time(4, 30))",0.17287428807024446
+82,"('dew_point_temperature_set_1d', datetime.time(7, 30))",0.17173453661806276
+73,"('dew_point_temperature_set_1d', datetime.time(3, 0))",0.17148660870645482
+171,"('solar_radiation_set_1', datetime.time(4, 0))",0.16465142968086063
+166,"('solar_radiation_set_1', datetime.time(1, 30))",0.16361932355795256
+4,"('DOW_4', '')",0.14729433285766233
+76,"('dew_point_temperature_set_1d', datetime.time(4, 30))",0.1439659379884996
+80,"('dew_point_temperature_set_1d', datetime.time(6, 30))",0.14316364120082484
+79,"('dew_point_temperature_set_1d', datetime.time(6, 0))",0.1424902127049282
+105,"('dew_point_temperature_set_1d', datetime.time(19, 0))",0.1424397734853823
+168,"('solar_radiation_set_1', datetime.time(2, 30))",0.14037062339994177
+100,"('dew_point_temperature_set_1d', datetime.time(16, 30))",0.13977595015948258
+6,"('DOW_6', '')",0.13285243804834665
+70,"('dew_point_temperature_set_1d', datetime.time(1, 30))",0.13132122911506586
+72,"('dew_point_temperature_set_1d', datetime.time(2, 30))",0.12481742871537611
+74,"('dew_point_temperature_set_1d', datetime.time(3, 30))",0.12375117093586205
+98,"('dew_point_temperature_set_1d', datetime.time(15, 30))",0.12192493461379776
+97,"('dew_point_temperature_set_1d', datetime.time(15, 0))",0.12159540952463252
+15,"('Month_9', '')",0.12036139132939476
+209,"('solar_radiation_set_1', datetime.time(23, 0))",0.10223996712545252
+71,"('dew_point_temperature_set_1d', datetime.time(2, 0))",0.10126515986056964
+0,"('DOW_0', '')",0.08321750285813305
+9,"('Month_3', '')",0.08209900993234381
+12,"('Month_6', '')",0.078145662817562
+16,"('Month_10', '')",0.07166211333408
+1,"('DOW_1', '')",0.02495231052443999
+10,"('Month_4', '')",0.023989276019187957
+14,"('Month_8', '')",0.02338547555774733
+3,"('DOW_3', '')",0.021547421270117786
+2,"('DOW_2', '')",0.013920360425217219
+8,"('Month_2', '')",0.013557262996234165
+11,"('Month_5', '')",0.0074936686586284905
+13,"('Month_7', '')",0.0016674172056519855
